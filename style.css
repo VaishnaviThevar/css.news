@@ -1,0 +1,84 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Main Container */
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+/* Images */
+img {
+    width: 60%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Author Info */
+.author {
+    font-style: italic;
+    color: #555;
+    margin-top: 10px;
+}
+
+/* Content Styling */
+.content {
+    margin-top: 20px;
+    line-height: 1.6;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Blockquote */
+.quote {
+    background: #eee;
+    padding: 10px;
+    font-style: italic;
+    border-left: 4px solid #333;
+    margin: 20px 0;
+    color: #555;
+}
+
+/* Headings */
+h2 {
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+
+/* List Styles */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: white;
+    margin-top: 20px;
+}
